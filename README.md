@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development (Includes Web & Mobile app's development)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects you looking for
-- 📫 How to reach me : Go to google.com search "abdul.nazurudeen" (you can find my profiles on social media)
+- 📫 How to reach me : Go to google.com search "abdul.nazurudeen" (you can find me)
 
 <!---
 abdulnazurudeen/abdulnazurudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
