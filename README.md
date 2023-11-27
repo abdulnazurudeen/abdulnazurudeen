@@ -8,3 +8,4 @@
 abdulnazurudeen/abdulnazurudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/abdulnazurudeen"><img src="https://github.com/abdulnazurudeen/abdulnazurudeen/blob/main/devcard.svg" width="400" alt="Abdul Nazurudeen's Dev Card"/></a>
