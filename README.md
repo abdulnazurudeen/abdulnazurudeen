@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulnazurudeen
-- 👀 I’m interested in Development (Includes Web & Mobile app's development)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Java, after python
 - 💞️ I’m looking to collaborate on projects you looking for
 - 📫 How to reach me : Go to google.com search "abdul.nazurudeen" (you can find me)
 
